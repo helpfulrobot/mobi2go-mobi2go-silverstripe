@@ -1,12 +1,12 @@
 {
-    "name": "chtombleson/mobi2go-silverstripe",
+    "name": "mobi2go/mobi2go-silverstripe",
     "description": "Add Mobi2Go to your site.",
     "type": "silverstripe-module",
     "homepage": "http://github.com/chtombleson/mobi2go-silverstripe",
     "keywords": ["silverstripe", "ecommerce", "e-commerce", "online ordering", "order online"],
     "license": "BSD-3-Clause",
     "authors": [
-        {"name": "Christopher Tombleson", "email": "chris@cribznetwork.com"}
+        {"name": "Mobi2Go", "email": "support@mobi2go.com"}
     ],
     "support": {
         "issues": "http://github.com/chtombleson/mobi2go-silverstripe/issues"

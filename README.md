@@ -30,7 +30,7 @@ Add the following to our composer.json file:
 
     {
         "require": {
-            "chtombleson/mobi2go-silverstripe": "~0.1"
+            "mobi2go/mobi2go-silverstripe": "~0.1"
         }
     }
 
