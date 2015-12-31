@@ -1,13 +1,15 @@
 <?php
 
-class Mobi2GoPage extends Page{
+class Mobi2GoPage extends Page
+{
     private static $db = array(
         'Mobi2GoStoreName' => 'Text',
     );
 
     private static $description = 'Mobi2Go ordering page';
 
-    public function getCMSFields() {
+    public function getCMSFields()
+    {
         $fields = parent::getCMSFields();
 
         $field = new TextField('Mobi2GoStoreName');
@@ -19,6 +21,6 @@ class Mobi2GoPage extends Page{
     }
 }
 
-class Mobi2GoPage_Controller extends Page_Controller {
-
+class Mobi2GoPage_Controller extends Page_Controller
+{
 }
